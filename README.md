@@ -62,6 +62,7 @@ CropOpt is a machine learning-based project that helps farmers optimize their cr
 - [ashktch](https://github.com/ashktch)
 - [BhavanaMinchu](https://github.com/BhavanaMinchu)
 - [Mohammed Ali](https://github.com/mohammed-ali-2003)
+- [Huma Mirza] (https://github.com/humamirza)
 
 ## License
 
